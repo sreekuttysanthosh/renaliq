@@ -1,8 +1,26 @@
+# Jupyter environment
 jupyter
 ipykernel
+
+# Data handling
 pandas
 numpy
+scipy
+
+# Data visualization
 matplotlib
 seaborn
-scipy
+plotly
+
+# Machine learning
 scikit-learn
+xgboost
+
+# Explainable AI
+shap
+
+# Model saving and loading
+joblib
+
+# Web application
+streamlit
