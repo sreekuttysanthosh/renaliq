@@ -1,0 +1,21 @@
+{
+    "models": [
+        "Logistic Regression",
+        "Random Forest",
+        "XGBoost"
+    ],
+    "features": [
+        "RIDAGEYR",
+        "female",
+        "INDFMPIR",
+        "LBXGH",
+        "BMXBMI",
+        "BPXOSY1",
+        "BPXODI1",
+        "smoking",
+        "insulin"
+    ],
+    "target": "kidney_marker",
+    "threshold": 0.5,
+    "threshold_note": "Default threshold; not separately tuned."
+}
