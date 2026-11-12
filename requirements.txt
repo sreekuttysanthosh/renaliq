@@ -13,7 +13,7 @@ seaborn
 plotly
 
 # Machine learning
-scikit-learn
+scikit-learn==1.6.1
 xgboost
 
 # Explainable AI
